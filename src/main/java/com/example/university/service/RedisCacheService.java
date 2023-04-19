@@ -1,6 +1,5 @@
 package com.example.university.service;
 
-import com.example.university.dto.response.UserResponseDto;
 import com.example.university.entity.UserEntity;
 import com.example.university.repository.UserRepository;
 import com.fasterxml.jackson.core.JsonProcessingException;
